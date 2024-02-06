@@ -21,5 +21,6 @@ hr.solid {
 
 p {
     font-size: 15px;
-    color: #FBFFFE
+    color: #FBFFFE;
+    text-align: center;
 }
