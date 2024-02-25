@@ -3,6 +3,8 @@
 body {
     background-color: #1B1B1E;
     font-family: 'IBM Plex Mono', sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 h1 {
@@ -21,5 +23,6 @@ hr.solid {
 
 p {
     font-size: 15px;
-    color: #FBFFFE
+    color: #FBFFFE;
+    text-align: center;
 }
