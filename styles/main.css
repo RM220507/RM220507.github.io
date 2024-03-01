@@ -21,8 +21,20 @@ hr.solid {
     border-top: #FBFFFE;
 }
 
-p {
+p.full-width {
     font-size: 15px;
     color: #FBFFFE;
     text-align: center;
+    line-height: 25px;
+    width: 70%;
+    margin-left: 15%;
+}
+
+.inline-link {
+    color: #FAA916;
+    text-decoration: none;
+}
+
+.inline-link:hover {
+    color: #96031A;
 }
